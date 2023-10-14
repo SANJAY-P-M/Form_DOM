@@ -1,7 +1,8 @@
+https://github.com/SANJAY-P-M/Form_DOM/assets/106712995/6ed94979-c624-4766-b47b-e1cd745cc2c5
 # Course Enrollment - Day Two Task: Creating a Form
 
-[Watch the Demo Video](Application-form-demo.mp4)
 ## Task Description
+
 
 **Objective**: The primary goal for today is to design and create an HTML form that can be used to collect user information.
 
