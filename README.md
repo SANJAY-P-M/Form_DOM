@@ -1,6 +1,6 @@
 # Course Enrollment - Day Two Task: Creating a Form
 
-[Watch the Demo Video](https://www.github.com/SANJAY-P-M/Application-form-demo.mp4)
+![Watch the Demo Video](Application-form-demo.mp4)
 ## Task Description
 
 **Objective**: The primary goal for today is to design and create an HTML form that can be used to collect user information.
